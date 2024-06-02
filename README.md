@@ -10,5 +10,6 @@ This project implements a simple ATM (Automated Teller Machine) interface in [pr
 - **Withdraw Cash**: Users can withdraw a specified amount of cash from their account.
 - **Check Balance**: Users can check the current balance of their account.
 - **Transfer Funds**: Users can transfer funds between accounts.
+-  **Deposit cash**: Users can deposit the cash ino their accounts.
 
 
